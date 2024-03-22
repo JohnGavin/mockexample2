@@ -16,6 +16,7 @@ knitr::opts_chunk$set(
 # mockexample2
 
 <!-- badges: start -->
+[![R-CMD-check](https://github.com/JohnGavin/mockexample2/actions/workflows/R-CMD-check.yaml/badge.svg)](https://github.com/JohnGavin/mockexample2/actions/workflows/R-CMD-check.yaml)
 <!-- badges: end -->
 
 The goal of mockexample2 is to ...
